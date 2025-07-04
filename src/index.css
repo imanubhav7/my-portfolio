@@ -1,0 +1,76 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face{
+  font-family: Fb1;
+  src: url(./assets/fonts/font0.woff2);
+}
+@font-face{
+  font-family: Fb2;
+  src: url(./assets/fonts/font1.woff2);
+}
+@font-face{
+  font-family: Fb3;
+  src: url(./assets/fonts/font2.woff2);
+}
+@font-face{
+  font-family: Fb4;
+  src: url(./assets/fonts/font3.woff2);
+}
+@font-face{
+  font-family: Fb5;
+  src: url(./assets/fonts/font4.woff2);
+}
+@font-face{
+  font-family: SF;
+  src: url(./assets/fonts/Sp-Font.woff2);
+}
+*{
+  color: white;
+}
+
+#page1{
+  /* background-color: red; */
+  width: fit-content;
+}
+#page1-in{
+  position: relative;
+  perspective:2000px;
+}
+#section2{
+  position: relative;
+  perspective: 3000px;
+}
+.rotateText{
+  transform-origin: 100% 70%;
+}
+.bgText{
+ background: url('./video/MotionEarth.mp4');
+  background-size: cover;
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+.borderBtm{
+  border-bottom: 3px solid rgb(155, 155, 155);
+}
+.img {
+  /* z-index:-1;
+  position: absolute;
+  top: 0;
+  left: 0; */
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.gradient {
+  background: #833ab4;
+  background: linear-gradient(
+    to right,
+    #833ab4,#fd1d1d,#fcb045
+  );
+  border-radius: 50%;
+}
