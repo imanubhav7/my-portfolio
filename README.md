@@ -15,13 +15,6 @@ A personal developer portfolio built using **React** and **Tailwind CSS**, desig
 
 - **Frontend**: React.js, Tailwind CSS, Framer Motion, GSAP  
 - **Routing**: React Router  
-- **Icons**: React Icons  
-- **Deployment**: Vercel / GitHub Pages *(mention your method)*
+- **Icons**: FontAwesome  
 
-## 🚀 Getting Started
 
-### Clone the repository
-
-```bash
-git clone https://github.com/imanubhav7/my-portfolio.git
-cd my-portfolio
