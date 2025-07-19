@@ -30,8 +30,8 @@ const Contact = () => {
             <NavLink className=" gradient px-1 text-[3em] uppercase font-[Fb4]" to='https://www.instagram.com/im_anubhav7_/?hl=en'>
             <FontAwesomeIcon icon={faInstagram} />
             </NavLink>
-            .
-            <h1 className="mt-16 text-[4.5em] space-x-16 uppercase font-[Fb4] font-semibold hover:text-[#9B9B9B] duration-300">
+            
+            <h1 className="mt-16 text-[3em] leading-[1em] uppercase font-semibold font-fb7 hover:text-[#9B9B9B] duration-300">
                 <NavLink >
                 Vishwakarmaanubhav409@gmail.com
                 </NavLink>

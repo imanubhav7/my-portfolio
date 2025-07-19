@@ -14,6 +14,9 @@ export default {
         'space-bg': "url('./src/Image/triangleBg.avif')",
         'reach-bg': "url('./src/Image/reachMeBg.avif')"
       },
+      fontFamily:{
+        fb7: ["Bebas Neue", 'sans-serif']
+      },
     },
   },
   plugins: [],
