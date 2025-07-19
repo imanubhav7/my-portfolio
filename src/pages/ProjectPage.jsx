@@ -18,7 +18,7 @@ const ProjectPage = () => {
                      {/* Details DIv */}
                 <div className='flex w-[26vw] flex-col justify-start items-start mt-16 mr-24 '>
                     <p className='font-[Fb3] text-[1.6em]'>
-                 Built with:  NextJS, Tailwind CSS, OpenAI GPT API, Clerk, Node.js, Prisma.
+                 Built with:  NextJS, Tailwind CSS, OpenAI GPT API, Clerk,Node.js, Prisma.
                     </p>
                     <div className='flex gap-5 justify-center items-center mt-5'>
                     <span className=' font-[Fb2] text-[1.4em]'>View the code</span>
