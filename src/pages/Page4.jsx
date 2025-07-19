@@ -19,7 +19,7 @@ import { useGSAP } from '@gsap/react';
 import { ScrollTrigger } from 'gsap/all';
 import skillBG from '../Image/skillBG.avif'
 import { RiNextjsFill } from "react-icons/ri";
-
+import { DiMongodb } from "react-icons/di";
 
 
 const Page4 = () => {
@@ -84,6 +84,11 @@ const Page4 = () => {
             <div className="text-white ml-6 mr-6 flex flex-col justify-center items-center">
             <RiNextjsFill />
             <p className='text-[18px] font-[Fb2]'>Next</p>
+            </div>
+
+            <div className="text-white ml-6 mr-6 flex flex-col justify-center items-center">
+            <DiMongodb />
+            <p className='text-[18px] font-[Fb2]'>MongoDb</p>
             </div>
 
             <div className="text-white ml-6 mr-6 flex flex-col justify-center items-center">
