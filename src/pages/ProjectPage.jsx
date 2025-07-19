@@ -22,7 +22,7 @@ const ProjectPage = () => {
                     </p>
                     <div className='flex gap-5 justify-center items-center mt-5'>
                     <span className=' font-[Fb2] text-[1.4em]'>View the code</span>
-                    <NavLink to='https://github.com/imanubhav7' ><FontAwesomeIcon className='text-[1.6em] cursor-pointer' icon={faGithub} /></NavLink>
+                    <NavLink to='https://github.com/https://github.com/imanubhav7/CoachAI.git' ><FontAwesomeIcon className='text-[1.6em] cursor-pointer' icon={faGithub} /></NavLink>
                    
                     </div>
                 
