@@ -5,11 +5,9 @@ A personal developer portfolio built using **React** and **Tailwind CSS**, desig
 ## ✨ Features
 
 - 🖥️ Modern UI with React & Tailwind CSS  
-- ⚡ Smooth scroll and animations using **Framer Motion** & **GSAP**  
-- 📱 Fully responsive across devices  
+- ⚡ Smooth scroll and animations using **Framer Motion** & **GSAP**   
 - 🔗 Projects section with live links and GitHub  
 - 📧 "Hire Me" button that opens Gmail compose window  
-- 🌓 (Optional) Dark mode support *(if added)*
 
 ## 🛠️ Tech Stack
 
