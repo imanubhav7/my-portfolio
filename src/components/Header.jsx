@@ -17,9 +17,13 @@ const Header = () => {
 
   return (
     <div className='fixed w-full flex items-center justify-end py-28 px-20 z-10 space-x-6'>
-      <button onClick={handleHireMeClick} className='bg-black rounded-2xl border-4 px-8 py-3 text-white hover:bg-zinc-500 hover:scale-110 duration-300 ease-in-out text-lg font-[Fb3]'>Hire me</button>
-      <a href="https://drive.google.com/file/d/1MVdKG9vAAQQ1eg5g4ZQ4jVAmsBLHkwGK/view?usp=drive_link" target='blank'>
-      <button className='bg-zinc-500 rounded-2xl border-4 px-8 py-3 text-white hover:bg-black hover:scale-110 duration-300 ease-in-out text-lg font-[Fb3]'>Resume</button>
+      <button onClick={handleHireMeClick} className="px-7 py-3 bg-[#021526] text-white font-semibold rounded-xl 
+         transition-all duration-300 hover:bg-[#0A3A52] 
+         hover:-translate-y-1 hover:shadow-xl">Hire me</button>
+      <a href="https://drive.google.com/file/d/19Vh4G743hrhM-HuF8xpgqpLxFArpQgPA/view?usp=drive_link" target='blank'>
+        <button className="px-7 py-3 border-2 border-[#021526] text-[#021526] font-semibold rounded-lg
+         transition-all duration-300 hover:bg-[#021526] hover:text-white
+         hover:-translate-y-1 hover:shadow-xl">Resume</button>
       </a>
       {/* <i className="text-4xl ml-3 ri-menu-line"></i> */}
     </div>
