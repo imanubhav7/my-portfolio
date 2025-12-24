@@ -20,7 +20,7 @@ const Header = () => {
       <button onClick={handleHireMeClick} className="px-7 py-3 bg-[#021526] text-white font-semibold rounded-xl 
          transition-all duration-300 hover:bg-[#0A3A52] 
          hover:-translate-y-1 hover:shadow-xl">Hire me</button>
-      <a href="https://drive.google.com/file/d/19Vh4G743hrhM-HuF8xpgqpLxFArpQgPA/view?usp=drive_link" target='blank'>
+      <a href="https://drive.google.com/file/d/1wykwC2QWCftaptLZfRCF7xrymfx86Qj9/view?usp=sharing" target='blank'>
         <button className="px-7 py-3 border-2 border-[#021526] text-[#021526] font-semibold rounded-lg
          transition-all duration-300 hover:bg-[#021526] hover:text-white
          hover:-translate-y-1 hover:shadow-xl">Resume</button>
